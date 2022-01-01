@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HI EVERYONE*
+**I AM ABIN MATHEW**
+_THIS IS A **NEW TECNOLOGY**TO THE NEW FUTURE_
